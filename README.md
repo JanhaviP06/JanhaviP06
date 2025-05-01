@@ -77,9 +77,11 @@ I'm on a mission to solve real-world problems with **data-driven solutions** and
 
 ## 🔢 Visitor Counter
 
-[![](https://visitcount.itsvg.in/api?id=JanhaviP06&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JanhaviP06&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
----
+--- 
 
 <p align="center">
 ✨ Always learning. Always growing. Let’s build something awesome together! ✨
