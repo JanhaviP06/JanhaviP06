@@ -16,7 +16,7 @@ I love turning data into meaningful insights through:
 
 I'm on a mission to solve real-world problems with **data-driven solutions** and build intelligent systems that drive impact.
 
----
+<br>
 
 ## 🚀 Areas of Interest
 - 🧠 Machine Learning & Predictive Analytics  
@@ -24,14 +24,15 @@ I'm on a mission to solve real-world problems with **data-driven solutions** and
 - 🛠️ Data Engineering & Automation  
 - 🌐 Web App Development 
 
----
+
+<br>
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janhavi-phulavare)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janhavi.phulavare06@gmail.com)
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -61,7 +62,7 @@ I'm on a mission to solve real-world problems with **data-driven solutions** and
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+<br>
 
 ## 📈 GitHub Stats
 
@@ -73,15 +74,12 @@ I'm on a mission to solve real-world problems with **data-driven solutions** and
 
 </div>
 
----
-
-## 🔢 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JanhaviP06&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
---- 
+
 
 <p align="center">
 ✨ Always learning. Always growing. Let’s build something awesome together! ✨
