@@ -6,8 +6,7 @@
 
 ---
 
-🌟 I'm a passionate **Data Analytics enthusiast** with a **Master’s in Data Analytics**.  
-I love turning data into meaningful insights through:
+🌟 I'm a passionate **Data Analytics enthusiast** with a **Master’s in Data Analytics**. I love turning data into meaningful insights through:
 
 - 📊 **Exploratory Data Analysis**
 - 📈 **Predictive Modeling**
